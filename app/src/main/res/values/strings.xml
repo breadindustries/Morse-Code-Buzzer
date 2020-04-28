@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Morse Code Buzzer</string>
+    <string name="edit_message">Write anything here using a-z and 0-9</string>
+    <string name="button_send">Begin Morse Encode</string>
+    <string name="lblWPM">Set WPM</string>
+    <string name="switchSMStext">Incoming SMS</string>
+    <string name="switchContactsText">Lookup Incoming Number in Contacts</string>
+
+    <string-array name="WPMoptions">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>25</item>
+        <item>27</item>
+        <item>30</item>
+        <item>32</item>
+        <item>35</item>
+        <item>37</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+</resources>
